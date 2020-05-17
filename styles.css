@@ -1,0 +1,43 @@
+/******************Tag CSS********************/
+
+body {
+    margin: 0;
+    background-color: #f6f6f6;
+}
+
+h1 {
+    margin: 0;
+}
+
+
+/******************Class CSS******************/
+
+.name-info {
+    font-family: 'Allura', cursive;
+    font-size: 2.7em;
+}
+
+.designation-info {
+    font-size: 1.2em;
+    margin: 10px 0px 20px 0px;
+}
+
+.top-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.top-card {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.top-cloud {
+    position: relative;
+    left: 15em;
+}
+
+.bottom-cloud {
+    position: relative;
+    right: 15em;
+}
